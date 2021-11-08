@@ -1,0 +1,214 @@
+body{
+background-color: black;;
+}
+
+#welcome{
+text-align: center;
+border: none;
+}
+
+h1{
+text-align: center;
+border-style: solid;
+border-color: white;
+border-radius: 10px;
+}
+
+#git1{
+color: blue;
+text-align: right;
+border-style: solid;
+border-color: white;
+border-radius: 10px;
+background-color: white;
+margin: 5px 5px 5px 850px;
+padding: 0px 12px 0px 0px;
+}
+
+#img2{
+border: dotted;
+color: red;
+margin: 100px;
+}
+
+
+#heading{
+color: blue;
+background-color: white;
+}
+
+#usage1{
+color: orange;
+text-align: left;
+}
+
+#usage2{
+color: orange;
+text-align: left;
+}
+
+#usage3{
+color: orange;
+text-align: left;
+}
+
+#usage4{
+color: orange;
+text-align: left;
+}
+
+#link1{
+color: blue;
+text-align: center;
+}
+
+#img3{
+border: dotted;
+color: red;
+margin: 100px;
+}
+
+#heading2{
+color: blue;
+background-color: white;
+}
+
+#img4{
+border: dotted;
+color: red;
+margin: 100px;
+}
+
+
+#use1{
+color: orange;
+text-align: left;
+}
+
+#use2{
+color: orange;
+text-align: left;
+}
+
+#use3{
+color: orange;
+text-align: left;
+}
+
+#use4{
+color: orange;
+text-align: left;
+}
+
+#link2{
+color: blue;
+text-align: center;
+}
+
+#heading3{
+color: blue;
+background-color: white;
+}
+
+#us1{
+color: orange;
+text-align: left;
+}
+
+#us2{
+color: orange;
+text-align: left;
+}
+
+#us3{
+color: orange;
+text-align: left;
+}
+
+#us4{
+color: orange;
+text-align: left;
+}
+
+#link3{
+color: blue;
+text-align: center;
+}
+
+#hd{
+background-color: purple;
+}
+
+#hd2{
+background-color: blue;
+}
+
+#hd3{
+background-color: blue;
+}
+
+#hd4{
+background-color: blue;
+}
+
+#hd5{
+background-color: blue;
+}
+
+#u1{
+color: orange;
+text-align: left;
+}
+
+#u2{
+color: orange;
+text-align: left;
+}
+
+#u3{
+color: orange;
+text-align: left;
+}
+
+#u4{
+color: orange;
+text-align: left;
+}
+
+#link4{
+color: blue;
+text-align: center;
+}
+
+#img5{
+border: dotted;
+color: red;
+margin: 100px;
+}
+
+#heading4{
+color: blue;
+background-color: white;
+}
+
+#endstyl{
+padding: 300px;
+}
+
+#end1{
+padding: 20px 300px 10px 300px;
+color: white;
+}
+
+#end2{
+margin: 20px 300px 10px 300px;
+color: white;
+}
+
+#endstyl1{
+padding: 300px;
+}
+
+#last{
+text-align: center;
+}
